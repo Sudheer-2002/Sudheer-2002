@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/7e05921d-4fa4-4457-899c-c94f742d71e0)
 <h1 align="center">Hi 👋, I'm Sudheer</h1>
-<h3 align="center">A passionate Java fullstack developer from India</h3>
+<h3 align="center">A passionate Java fullstack developer</h3>
 <img align="right" alt="Coding" src="https://github.com/user-attachments/assets/909e4ec5-d924-4e90-b14f-411e400da609">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer-2002&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer-2002" /> </p>
